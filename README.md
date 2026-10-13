@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Agent ʻOhana — The Tokyo Trinity
 
 > One verified human blesses named agents; named agents steward gifts — **consent on-chain, revocation one transaction away.**
@@ -100,3 +101,7 @@ Family canon is **CC0**; contract sources carry `SPDX-License-Identifier: MIT`. 
 ---
 
 *Built with aloha. The more we give, the more we receive — an expansive circularity. 🌺*
+=======
+# Codenova
+An AI-powered security platform that helps protect users from unauthorized AI agent access through identity verification, access control, and secure resource management.
+>>>>>>> e0dd630fa01fca83e25ff227f4dd5620d93fabc3
